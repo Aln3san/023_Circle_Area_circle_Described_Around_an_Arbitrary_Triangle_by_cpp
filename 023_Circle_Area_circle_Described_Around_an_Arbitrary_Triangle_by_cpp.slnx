@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="023_Circle_Area_circle_Described_Around_an_Arbitrary_Triangle_by_cpp.vcxproj" />
+</Solution>
